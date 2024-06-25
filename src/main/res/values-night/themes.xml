@@ -3,8 +3,8 @@
     <style name="Base.Theme.NotesApp" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your dark theme here. -->
         <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
-        <item name="colorPrimary">@color/pink</item>
-        <item name="colorPrimaryVariant">@color/purple</item>
+        <item name="colorPrimary">@color/dark</item>
+        <item name="colorPrimaryVariant">@color/dark</item>
         <item name="colorOnPrimary">@color/black</item>
 
         <item name="colorSecondary">@color/pink</item>
@@ -13,4 +13,6 @@
 
         <item name="android:statusBarColor" tools:targetApi="l">@color/pink</item>
     </style>
+
+
 </resources>
